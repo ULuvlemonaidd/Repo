@@ -4,15 +4,12 @@ Multi platform Report bot
 Automated spam reporting tool for Snapchat, VRChat, and TikTok, built for use on Android through Termux. Intended for educational testing and ethical red-teaming purposes.
 
 ⚙️ Features
-✅ Works on Android via Termux
 
 📤 Automates spam report submissions
 
 🛠️ Supports Snapchat, VRChat, and TikTok
 
-💬 CLI-based UI
-
-🌐 Uses HTTP requests and form automation
+🌐 Uses HTTP requests 
 
 📱 Supported Platforms
 
@@ -25,6 +22,7 @@ TikTok
 (Instagram coming soon)
 
 🧰 Requirements
+
 Termux (latest version)
 
 python3
@@ -35,7 +33,7 @@ pip
 
 DOWNLOAD COMMANDS
 
-git clone 
+git clone https://github.com/ULuvlemonaidd/Repo
 
 cd Repo
 
