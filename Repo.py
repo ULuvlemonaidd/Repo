@@ -7,6 +7,7 @@ def clear_screen():
 
 def print_menu():
     clear_screen()
+    print("Made by: Lemonaidd")
     print(r"""
    ██████╗ ███████╗██████╗  ██████╗        
    ██╔══██╗██╔════╝██╔══██╗██╔═══██╗       
