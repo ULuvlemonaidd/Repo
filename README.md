@@ -19,11 +19,13 @@ VRChat
 
 TikTok
 
-(Instagram coming soon)
+Instagram
 
 🧰 Requirements
 
 Termux (latest version)
+
+ISH Shell (latest version)
 
 python3
 
@@ -31,7 +33,7 @@ pip
 
 
 
-DOWNLOAD COMMANDS
+DOWNLOAD COMMANDS (Termux)
 
 git clone https://github.com/ULuvlemonaidd/Repo
 
