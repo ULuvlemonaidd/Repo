@@ -32,6 +32,7 @@ python3
 pip
 
 
+---
 
 DOWNLOAD COMMANDS (Termux)
 
@@ -41,4 +42,23 @@ cd Repo
 
 python Repo.py
 
-![Screenshot 2025-07-06 12 27 30 AM](https://github.com/user-attachments/assets/f57bd656-8e6b-4998-b6b0-6175005e108a)
+---
+
+DOWNLOAD COMMANDS (ISH Shell)
+
+apk add git
+
+apk add python3
+
+apk add py3-pip
+
+git clone https://github.com/ULuvlemonaidd/Repo
+
+cd Repo
+
+python3 Repo.py
+
+---
+
+<img width="414" height="340" alt="Screenshot 2025-07-16 11 33 09 PM" src="https://github.com/user-attachments/assets/0fffb230-63c6-4d29-a900-003ae6282145" />
+
