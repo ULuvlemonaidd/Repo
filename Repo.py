@@ -20,7 +20,8 @@ def print_menu():
     print("1. Snapchat  Report")
     print("2. VRChat  Report")
     print("3. TikTok  Report")
-    print("4. Exit")
+    print("4. Instagram  Report")
+    print("5. Exit")
 
 def connect_to_proxy():
     print("Connecting to proxy...")
@@ -47,10 +48,10 @@ def main():
     while True:
         print_menu()
         choice = input("Select an option: ")
-        if choice == '4':
+        if choice == '5':
             break
-        elif choice in ['1', '2', '3']:
-            platform = ["Snapchat", "VRChat", "TikTok"][int(choice) - 1]
+        elif choice in ['1', '2', '3','4']:
+            platform = ["Snapchat", "VRChat", "TikTok", "Instagram"][int(choice) - 1]
             username = input("Enter username: ")
             duration = int(input("Enter duration in seconds: "))
             connect_to_proxy()
